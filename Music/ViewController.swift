@@ -7,9 +7,22 @@
 //
 
 import UIKit
+import AVFoundation
 
 class ViewController: UIViewController {
 
+    var audioPlayer: AVAudioPlayer!
+
+    @IBAction func natsuPlayButton(){
+        
+    }
+    @IBAction func amePlayButotn(){
+
+    }
+    @IBAction func akiPlayButton(){
+        
+    }
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
